@@ -1,0 +1,7 @@
+C:\Users\asala\source\repos\practice\thirdPractice\bin\Debug\thirdPractice.exe.config
+C:\Users\asala\source\repos\practice\thirdPractice\bin\Debug\thirdPractice.exe
+C:\Users\asala\source\repos\practice\thirdPractice\bin\Debug\thirdPractice.pdb
+C:\Users\asala\source\repos\practice\thirdPractice\obj\Debug\thirdPractice.csproj.AssemblyReference.cache
+C:\Users\asala\source\repos\practice\thirdPractice\obj\Debug\thirdPractice.csproj.CoreCompileInputs.cache
+C:\Users\asala\source\repos\practice\thirdPractice\obj\Debug\thirdPractice.exe
+C:\Users\asala\source\repos\practice\thirdPractice\obj\Debug\thirdPractice.pdb

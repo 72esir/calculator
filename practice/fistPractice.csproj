@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{20DD31DA-2507-4FA8-AD55-D956FAD03554}</ProjectGuid>
+    <ProjectGuid>{044355D0-A644-41DB-B372-A5B1F792EAC6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>labaNumThree</RootNamespace>
-    <AssemblyName>labaNumThree</AssemblyName>
+    <RootNamespace>practice</RootNamespace>
+    <AssemblyName>practice</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

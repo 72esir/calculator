@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("labaNumOne")]
+[assembly: AssemblyTitle("thirdPractice")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("labaNumOne")]
+[assembly: AssemblyProduct("thirdPractice")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("1d19d31a-525f-41d8-b92e-8250f47ece5b")]
+[assembly: Guid("006036a8-829a-4fb3-8ea2-f65403fe9de1")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

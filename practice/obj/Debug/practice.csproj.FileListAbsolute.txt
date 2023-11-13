@@ -1,0 +1,7 @@
+C:\Users\asala\source\repos\practice\practice\bin\Debug\practice.exe.config
+C:\Users\asala\source\repos\practice\practice\bin\Debug\practice.exe
+C:\Users\asala\source\repos\practice\practice\bin\Debug\practice.pdb
+C:\Users\asala\source\repos\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+C:\Users\asala\source\repos\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+C:\Users\asala\source\repos\practice\practice\obj\Debug\practice.exe
+C:\Users\asala\source\repos\practice\practice\obj\Debug\practice.pdb
