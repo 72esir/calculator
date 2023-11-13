@@ -1,7 +1,0 @@
-C:\Users\asala\source\repos\practice\test\bin\Debug\test.exe.config
-C:\Users\asala\source\repos\practice\test\bin\Debug\test.exe
-C:\Users\asala\source\repos\practice\test\bin\Debug\test.pdb
-C:\Users\asala\source\repos\practice\test\obj\Debug\test.csproj.AssemblyReference.cache
-C:\Users\asala\source\repos\practice\test\obj\Debug\test.csproj.CoreCompileInputs.cache
-C:\Users\asala\source\repos\practice\test\obj\Debug\test.exe
-C:\Users\asala\source\repos\practice\test\obj\Debug\test.pdb
