@@ -14,7 +14,7 @@ namespace lab4
             List<object> elems = elemsCreation(input);
             List<object> rpn = Transformation(elems);
 
-            long result = CalculateRPN(rpn);
+            double result = CalculateRPN(rpn);
             //вывод ОПЗ
             for (int i = 0; i < rpn.Count; i++)
             {
@@ -29,7 +29,7 @@ namespace lab4
         {
             if (!string.IsNullOrEmpty(buffer))
             {
-                tokens.Add(int.Parse(buffer));
+                tokens.Add(double.Parse(buffer));
             }
 
             return string.Empty;
@@ -44,7 +44,7 @@ namespace lab4
             {
                 bool testChar = char.IsDigit(e);
                 
-                if (testChar)
+                if (testChar || e == ',')
                 {
                     buffer += e;
                 }
@@ -136,30 +136,30 @@ namespace lab4
             return result;
         }
 
-        static int CalculateRPN(List<object> rpnString)
+        static double CalculateRPN(List<object> rpnString)
         {
-            Stack<int> operationStack = new Stack<int>();
+            Stack<double> operationStack = new Stack<double>();
             
             foreach (var token in rpnString)
             {
 
                 if (char.IsDigit(token.ToString()[0]))
                 {
-                    operationStack.Push(Convert.ToInt32(token));
+                    operationStack.Push(Convert.ToDouble(token));
                     
                 }
                 else
                 {
                     char operation = token.ToString()[0];
-                    int num2 = operationStack.Pop();
-                    int num1 = operationStack.Pop();
+                    double num2 = operationStack.Pop();
+                    double num1 = operationStack.Pop();
                     operationStack.Push(UseOperation(operation, num1, num2));
                     
                 }
 
             }
 
-            static int UseOperation(char operation, int op1, int op2)
+            static double UseOperation(char operation, double op1, double op2)
             {
                 switch (operation)
                 {
